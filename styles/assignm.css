@@ -126,3 +126,76 @@ nav .menu a {
     color: #000000;
 }
 
+.section-heading{
+    max-width: 1360px;
+    text-align: center;
+    margin: 0 auto;
+}
+.section-heading h2{
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom:16px ;
+}
+
+.section-heading p{
+    color: #627382;
+    line-height: 20px;
+    margin-bottom: 44px;
+
+}
+
+
+#card-section{
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+#card-section .card-container{
+    width: 85%;
+    max-width: 1360px;
+    margin: 0 auto;
+}
+
+.card-box{
+    display: flex;
+    gap: 24px;
+    
+
+}
+.card-box .card{
+    padding: 70px 24px 24px ;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px 0 #00000015;
+}
+
+.circle{
+    width: 60px;
+    height: 60px;
+    background-color: #F95555;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    margin: 0 auto;
+
+}
+
+
+.card h3{
+    font-size: 24px;
+    font-weight:600 ;
+    padding: 16px 24px;
+    margin: 0 auto;
+    text-align: center;
+    color: #001931;
+}
+.card p{
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0 auto;
+    color: #627382;
+    text-align: center;
+    padding-bottom: 22px;
+
+}
+
