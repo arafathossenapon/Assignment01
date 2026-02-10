@@ -265,3 +265,59 @@ nav .menu a {
     text-align: left;
 
 }
+
+#early-section{
+    width: 85%;
+    max-width: 1360px;
+    margin: 120px auto;
+    
+   
+}
+#early-section .early-container{
+    text-align: center;
+    background-color: #F7F6F2;
+    border-radius: 12px;
+    padding: 80px 40px;
+    
+}
+.early-container .early-heading1{
+    max-width: 1280px;
+    padding-bottom: 24px;
+
+}
+
+.early-heading1 h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    color: #001931;
+    padding-bottom: 16px;
+
+}
+
+.early-heading1 p{
+    color:#627382 ;
+    text-align: center;
+    line-height: 24px;
+
+}
+
+.early-heading2 {
+    text-align: center;
+    
+    
+}
+.early-heading2 .ehtext{
+    padding-top:16px ;
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+
+}
+
+.ehtext p{
+    
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
